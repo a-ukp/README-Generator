@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "README Generator - Rice Coding Bootcamp Week 09 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-ukp/README-Generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "readme-generator"
+  ],
+  "author": "Anna Uyen Ky Phung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-ukp/README-Generator/issues"
+  },
+  "homepage": "https://github.com/a-ukp/README-Generator#readme"
+}
