@@ -6,7 +6,7 @@ This project is a node.js application that helps the user create a README file f
 ### Preview
 
 ### Video Demonstration
-* [README Generator Demonstration]()
+* [README Generator Demonstration](https://youtu.be/kqfcXbbVe-w)
 
 ---
 
