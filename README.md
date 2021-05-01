@@ -4,6 +4,7 @@
 This project is a node.js application that helps the user create a README file from their terminal. 
 
 ### Preview
+![README Generator Preview](https://cdn.discordapp.com/attachments/817111969932378182/838136890837172284/unknown.png)
 
 ### Video Demonstration
 * [README Generator Demonstration](https://youtu.be/kqfcXbbVe-w)
